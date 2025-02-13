@@ -1,2 +1,2 @@
 # Class Adapter
-Adapter design pattern (by extending class) example in java
+Adapter design pattern (using inheritance) example in java
